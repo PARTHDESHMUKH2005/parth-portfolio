@@ -22,7 +22,7 @@ export default function Contact() {
             </a>
             <a
               className="btn btn-ghost"
-              href="https://linkedin.com/in/parthdeshmukh"
+              href="https://www.linkedin.com/in/parth-mahesh-deshmukh-462821323/"
               target="_blank"
               rel="noopener"
             >
@@ -51,8 +51,8 @@ export default function Contact() {
               </div>
               <div className="contact-cell">
                 <div className="cat">LinkedIn</div>
-                <a href="https://linkedin.com/in/parthdeshmukh" target="_blank" rel="noopener">
-                  linkedin.com/in/parthdeshmukh
+                <a href="https://www.linkedin.com/in/parth-mahesh-deshmukh-462821323/" target="_blank" rel="noopener">
+                  linkedin.com/in/parth-mahesh-deshmukh-462821323
                 </a>
                 <div className="sub">Posts on risk systems, LLM infra, and fintech.</div>
               </div>
