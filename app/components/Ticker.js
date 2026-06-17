@@ -21,7 +21,7 @@ const ITEMS = [
     <b>FINBERT</b> sentiment accuracy <span className="up">87%</span> <span className="pipe">|</span>
   </>,
   <>
-    THAPAR IOET <span className="pipe">·</span> CGPA <b>8.20 / 10</b> <span className="pipe">|</span>
+    THAPAR IOET <span className="pipe">·</span> CGPA <b>8.14 / 10</b> <span className="pipe">|</span>
   </>,
 ];
 

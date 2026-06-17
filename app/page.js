@@ -31,8 +31,8 @@ export default function Home() {
               <Link className="btn btn-primary" href="/projects">
                 View the models
               </Link>
-              <a className="btn btn-ghost" href="/Parth_Deshmukh_Resume.pdf" target="_blank" rel="noopener">
-                Download résumé (PDF)
+              <a className="btn btn-ghost" href="https://drive.google.com/file/d/1xdJ_ZNyyeU7Ju3ZdFeVPEqagjD8Vv6rc/view?usp=sharing" target="_blank" rel="noopener">
+                View resume
               </a>
             </div>
           </div>
@@ -56,7 +56,7 @@ export default function Home() {
             </div>
             <div className="summary-row">
               <span className="k">GPA</span>
-              <span className="v gold">8.20 / 10.00</span>
+              <span className="v gold">8.14 / 10.00</span>
             </div>
             <div className="summary-row">
               <span className="k">Core models</span>

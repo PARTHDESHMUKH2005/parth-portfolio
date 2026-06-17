@@ -116,7 +116,7 @@ export default function Skills() {
               </div>
               <div className="cred">
                 <div className="y">2024 — 2028</div>
-                <div className="t">B.E. Computer Engineering, CGPA 8.20</div>
+                <div className="t">B.E. Computer Engineering, CGPA 8.14</div>
                 <div className="s">Thapar Institute of Engineering &amp; Technology</div>
               </div>
             </div>
