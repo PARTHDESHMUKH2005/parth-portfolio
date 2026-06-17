@@ -60,7 +60,7 @@ export default function Home() {
             </div>
             <div className="summary-row">
               <span className="k">Core models</span>
-              <span className="v">3 deployed</span>
+              <span className="v">3 architected</span>
             </div>
             <div className="summary-row">
               <span className="k">Target functions</span>

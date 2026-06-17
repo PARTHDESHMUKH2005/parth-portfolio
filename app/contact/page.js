@@ -17,8 +17,8 @@ export default function Contact() {
             to internships and full-time conversations across risk, credit, and applied AI.
           </p>
           <div className="hero-actions">
-            <a className="btn btn-primary" href="mailto:parthdeshmukh036@gmail.com">
-              parthdeshmukh036@gmail.com
+            <a className="btn btn-primary" href="mailto:parthmd018@gmail.com">
+              parthmd018@gmail.com
             </a>
             <a
               className="btn btn-ghost"
@@ -46,7 +46,7 @@ export default function Contact() {
             <div className="contact-grid">
               <div className="contact-cell">
                 <div className="cat">Email</div>
-                <a href="mailto:parthdeshmukh036@gmail.com">parthdeshmukh036@gmail.com</a>
+                <a href="mailto:parthmd018@gmail.com">parthmd018@gmail.com</a>
                 <div className="sub">Fastest way to reach me — usually reply within a day.</div>
               </div>
               <div className="contact-cell">
